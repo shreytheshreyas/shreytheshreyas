@@ -52,3 +52,7 @@
 <span><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreytheshreyas&theme=transparent" width="400"></span>
 <span><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreytheshreyas&theme=transparent&utcOffset=8" width="400"></span>
 </p>
+
+<h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with me </h2>
+  <a href="www.linkedin.com/in/shreyas-kumar98"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-dodgerblue?style=flat-square&logo=linkedin&logoColor=Red&link=www.linkedin.com%2Fin%2Fshreyas-kumar98" width="120"></a>
+
