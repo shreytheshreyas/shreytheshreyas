@@ -47,7 +47,7 @@
   <span><img alt="Static Badge" src="https://img.shields.io/badge/GCP-white?style=flat-square&logo=googlecloud&logoColor=Red"></span>
   
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<center>
-<span><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreytheshreyas&theme=transparent" width="500"></span>
-<span><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreytheshreyas&theme=transparent&utcOffset=8" width="500"></span>
-</center>
+<p align='center'>
+<span><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreytheshreyas&theme=transparent" width="400"></span>
+<span><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreytheshreyas&theme=transparent&utcOffset=8" width="400"></span>
+</p>
