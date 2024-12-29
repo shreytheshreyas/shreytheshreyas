@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=NUS+Computer+Engineering+Graduate.;Research+Assistant+for+applied+AI.;Aspirining+Entrepreneur;Data+Engineer.;Backend+Developer.;&font=Pacifico&width=750&height=120&size=45%22">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=NUS+Computer+Engineering+Graduate.;Research+Assistant+for+applied+AI.;Entrepreneur;Data+Engineer.;Backend+Developer.;&font=Pacifico&width=750&height=120&size=45%22">
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
