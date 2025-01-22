@@ -8,6 +8,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
 - **Curriculum Vitae**:
+  
   The following is the link to my <a href="https://drive.google.com/file/d/1Idj3OBpBv8g49ty2oswwmU04djzES8-1/view?usp=sharing">curriculum vitae</a>
 - **Languages**:
 
